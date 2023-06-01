@@ -1,7 +1,7 @@
 <%-- 
     Document   : arithmaticCalculator
     Created on : 26-May-2023, 12:46:02 PM
-    Author     : octov
+    Author     : TyHalvorsen
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

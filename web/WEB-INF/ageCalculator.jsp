@@ -21,7 +21,7 @@
                 <input type="submit" value="Age Next Birthday">
             </form>
             <br>
-            <p>${next_age}</p>
+            <p>${result}<p>
             <br>
             <a href="./math" target="_blank">Arithmatic Calculator</a>
             
